@@ -1,0 +1,1 @@
+# mini_n8n_go
